@@ -5,7 +5,7 @@ import app from '../app';
 import http from 'http';
 import config from '../config';
 
-const debug = require('debug')('psychedelices:server');
+const debug = require('debug')('unitedtranssexuals:server');
 
 /**
  * Normalize a port into a number, string, or false.
